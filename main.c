@@ -7,5 +7,10 @@ int main(){
     float f;
     double d;
 
+
+    c= 'a';
+    x= 12;
+    f= 3.14f;
+    d= 45.67;
     return 0;
 }
